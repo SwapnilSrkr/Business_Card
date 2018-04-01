@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_0">0dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="corner_25">25dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="text_22">22sp</dimen>
+</resources>
